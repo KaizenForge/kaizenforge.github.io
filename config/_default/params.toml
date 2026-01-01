@@ -10,11 +10,11 @@ customText = ""
 
 [dateFormat]
 published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+lastUpdated = "Jan 02, 2006 15:04 CEST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+# emoji = "🍥"
+subtitle = "--=Tech Blog=--"
 
 [sidebar.avatar]
 enabled = true
@@ -27,7 +27,7 @@ math = false
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
@@ -80,7 +80,7 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = ""
+shortname = "KaizenForge"
 apiUrl = ""
 apiKey = ""
 admin = ""
