@@ -11,8 +11,9 @@ defaultContentLanguage = "en"
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = false
 
-# Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+# Disqus site shortname (required for Disqus embed)
+# If comments do not load, verify this matches your Disqus "shortname".
+disqusShortname = "KaizenForge"
 
 [pagination]
 pagerSize = 5
