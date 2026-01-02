@@ -7,7 +7,7 @@ image: https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?q=80&w=2576&
 categories:
     - DevOps
 tags:
-    - general
+    - devops
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
